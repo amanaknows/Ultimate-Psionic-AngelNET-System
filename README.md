@@ -1,6 +1,3 @@
-Certainly! Here's the README file in Markdown format:
-
-```markdown
 # 🚀 Ultimate Psionic-AngelNET System README
 
 ## **Overview**
